@@ -5,7 +5,7 @@ Used to help craft wordlists, Replacify takes permutations from your source list
 ```
 [REQUIRED] -s - set the path to the source list
 [REQUIRED] -t - set the path to the target list
-[REQUIRED] -w - set the word to replace in the target list
+[REQUIRED] -w - set the keyword to replace in the target list
 
 [OPTIONAL] -o - set the output filename
 ```
@@ -13,7 +13,7 @@ Used to help craft wordlists, Replacify takes permutations from your source list
 
 ## NOTES
 
-*The keyword is case sensitive. If you have 'password' set as the keyword, 'PASSWORD' will not be effected.
+*The keyword is case sensitive. If you have 'password' set as the keyword, 'PASSWORD' will not be effected in the target list.
 
 
 
